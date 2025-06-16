@@ -1,0 +1,26 @@
+✅ Sample Flow Summary
+Register & login user → get token
+
+Login admin → get token
+
+Admin adds restaurant + menu
+
+User views restaurants + menu
+
+User adds item to cart
+
+User places order
+
+User views past orders
+
+
+
+online-food-ordering/
+├── controllers/
+├── models/
+├── routes/
+├── middleware/
+├── config/
+├── .env
+├── server.js
+├── package.json
